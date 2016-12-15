@@ -1,0 +1,30 @@
+{
+  "name": "golf-score-tracker",
+  "version": "1.0.0",
+  "description": "My dad asked me to make a web app for him and his golf buddies",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMinusMinus/GolfScoreTracker.git"
+  },
+  "author": "George Colson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMinusMinus/GolfScoreTracker/issues"
+  },
+  "homepage": "https://github.com/CMinusMinus/GolfScoreTracker#readme",
+  "dependencies": {
+    "angular": "^1.6.0",
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.7",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.7.2",
+    "morgan": "^1.7.0"
+  }
+}
