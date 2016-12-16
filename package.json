@@ -19,6 +19,7 @@
   "homepage": "https://github.com/CMinusMinus/GolfScoreTracker#readme",
   "dependencies": {
     "angular": "^1.6.0",
+    "angular-route": "^1.6.0",
     "body-parser": "^1.15.2",
     "bootstrap": "^3.3.7",
     "ejs": "^2.5.5",
