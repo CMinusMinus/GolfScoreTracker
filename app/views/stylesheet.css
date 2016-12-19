@@ -1,1 +1,26 @@
 
+body {
+  background-color: gray;
+}
+
+.num {
+  font-size: 5em;
+  padding-bottom: 10%;
+}
+
+.num {
+
+}
+
+.name {
+  margin-top: 4%;
+  font-size: 3em;
+}
+
+.stats {
+  font-size: 1.5em;
+}
+
+div {
+  margin-top: 5%;
+}
